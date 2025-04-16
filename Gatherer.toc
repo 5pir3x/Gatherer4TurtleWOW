@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: Gatherer |cffcccccc[TurtleWoW]
+## Version: 2.0.0
+## Notes: Gatherer, displays stuff you gather in your minimap and world map
+## SavedVariables: GatherItems, Gatherer_SavedSettings_AccountWide
+## SavedVariablesPerCharacter: Gatherer_SavedSettings_PerCharacter
+## OptionalDeps: myAddOns
+
+utils.lua
+constants.lua
+string.lua
+math.lua
+notifications.lua
+database.lua
+Gatherer.xml
+GathererUI.xml
+GathererInfo.xml
+Gatherer_Config.lua
